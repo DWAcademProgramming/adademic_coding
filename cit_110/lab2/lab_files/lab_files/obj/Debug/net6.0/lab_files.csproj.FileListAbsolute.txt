@@ -1,0 +1,15 @@
+/Users/david_welsh/projects/cit_110/lab2/lab_files/lab_files/obj/Debug/net6.0/lab_files.csproj.AssemblyReference.cache
+/Users/david_welsh/projects/cit_110/lab2/lab_files/lab_files/obj/Debug/net6.0/lab_files.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david_welsh/projects/cit_110/lab2/lab_files/lab_files/obj/Debug/net6.0/lab_files.AssemblyInfoInputs.cache
+/Users/david_welsh/projects/cit_110/lab2/lab_files/lab_files/obj/Debug/net6.0/lab_files.AssemblyInfo.cs
+/Users/david_welsh/projects/cit_110/lab2/lab_files/lab_files/obj/Debug/net6.0/lab_files.csproj.CoreCompileInputs.cache
+/Users/david_welsh/projects/cit_110/lab2/lab_files/lab_files/bin/Debug/net6.0/lab_files
+/Users/david_welsh/projects/cit_110/lab2/lab_files/lab_files/bin/Debug/net6.0/lab_files.deps.json
+/Users/david_welsh/projects/cit_110/lab2/lab_files/lab_files/bin/Debug/net6.0/lab_files.runtimeconfig.json
+/Users/david_welsh/projects/cit_110/lab2/lab_files/lab_files/bin/Debug/net6.0/lab_files.dll
+/Users/david_welsh/projects/cit_110/lab2/lab_files/lab_files/bin/Debug/net6.0/lab_files.pdb
+/Users/david_welsh/projects/cit_110/lab2/lab_files/lab_files/obj/Debug/net6.0/lab_files.dll
+/Users/david_welsh/projects/cit_110/lab2/lab_files/lab_files/obj/Debug/net6.0/refint/lab_files.dll
+/Users/david_welsh/projects/cit_110/lab2/lab_files/lab_files/obj/Debug/net6.0/lab_files.pdb
+/Users/david_welsh/projects/cit_110/lab2/lab_files/lab_files/obj/Debug/net6.0/lab_files.genruntimeconfig.cache
+/Users/david_welsh/projects/cit_110/lab2/lab_files/lab_files/obj/Debug/net6.0/ref/lab_files.dll
